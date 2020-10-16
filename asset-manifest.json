@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/AY-BAMZ/snacks.git/static/css/main.f3f6666c.chunk.css",
+    "main.js": "/AY-BAMZ/snacks.git/static/js/main.a4d83907.chunk.js",
+    "main.js.map": "/AY-BAMZ/snacks.git/static/js/main.a4d83907.chunk.js.map",
+    "runtime-main.js": "/AY-BAMZ/snacks.git/static/js/runtime-main.5e6cdc38.js",
+    "runtime-main.js.map": "/AY-BAMZ/snacks.git/static/js/runtime-main.5e6cdc38.js.map",
+    "static/css/2.2fc483f1.chunk.css": "/AY-BAMZ/snacks.git/static/css/2.2fc483f1.chunk.css",
+    "static/js/2.8177a7c2.chunk.js": "/AY-BAMZ/snacks.git/static/js/2.8177a7c2.chunk.js",
+    "static/js/2.8177a7c2.chunk.js.map": "/AY-BAMZ/snacks.git/static/js/2.8177a7c2.chunk.js.map",
+    "index.html": "/AY-BAMZ/snacks.git/index.html",
+    "precache-manifest.509dbee56f5ed5b191653a73397c21e0.js": "/AY-BAMZ/snacks.git/precache-manifest.509dbee56f5ed5b191653a73397c21e0.js",
+    "service-worker.js": "/AY-BAMZ/snacks.git/service-worker.js",
+    "static/css/2.2fc483f1.chunk.css.map": "/AY-BAMZ/snacks.git/static/css/2.2fc483f1.chunk.css.map",
+    "static/css/main.f3f6666c.chunk.css.map": "/AY-BAMZ/snacks.git/static/css/main.f3f6666c.chunk.css.map",
+    "static/js/2.8177a7c2.chunk.js.LICENSE.txt": "/AY-BAMZ/snacks.git/static/js/2.8177a7c2.chunk.js.LICENSE.txt",
+    "static/media/facebook.svg": "/AY-BAMZ/snacks.git/static/media/facebook.17a094a3.svg",
+    "static/media/instagram.svg": "/AY-BAMZ/snacks.git/static/media/instagram.2371f429.svg",
+    "static/media/logo.svg": "/AY-BAMZ/snacks.git/static/media/logo.609f7bf4.svg",
+    "static/media/twitter.svg": "/AY-BAMZ/snacks.git/static/media/twitter.4c47721d.svg",
+    "static/media/whatsapp.svg": "/AY-BAMZ/snacks.git/static/media/whatsapp.36d3147d.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5e6cdc38.js",
+    "static/css/2.2fc483f1.chunk.css",
+    "static/js/2.8177a7c2.chunk.js",
+    "static/css/main.f3f6666c.chunk.css",
+    "static/js/main.a4d83907.chunk.js"
+  ]
+}
